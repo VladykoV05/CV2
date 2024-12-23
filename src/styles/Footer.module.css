@@ -1,0 +1,36 @@
+.footer {
+    background-color: #333;
+    text-align: center;
+    padding: 1.5rem;
+  }
+  
+  .title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: white;
+  }
+  
+  .contactInfo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0.5rem;
+  }
+  
+  .text {
+    font-size: 1rem;
+    color: white;
+    margin-left: 2rem;
+    margin-right: 2rem;
+  }
+  
+  .text a {
+    color: white;
+    text-decoration: none; 
+  }
+  
+  .text a:hover {
+    text-decoration: underline;
+  }
+  
